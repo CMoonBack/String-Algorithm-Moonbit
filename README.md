@@ -1,6 +1,7 @@
 # Algorithm of string library
 
-This library contains string-related data structures and algorithms, including KMP, manachert algorithms, string hashes, suffix arrays, AC automata, etc
+This library contains string-related data structures and algorithms, including KMP, manachert algorithms, string hashes, suffix arrays, AC automata, etc.
+
 At present, the KMP algorithm has been implemented, and the other algorithms are under development.
 
 ## Features
